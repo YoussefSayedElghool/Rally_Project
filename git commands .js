@@ -15,6 +15,17 @@ git add File.html index.html main.css // add this file to the staging area Note 
  
 git add * // add the all file that not not exist in staging area
 
+git commit // add the file from staging area to local repo.
+
+git push "remote repo. Name" "BranchName" // add the file from staging area to local repo.
+
+git remote // return the remote
+
+git branch // return branch name
+
+git config --global user.name "FIRST_NAME LAST_NAME" // add you name
+
+git config --global user.email "MY_NAME@example.com"
 
 
 
